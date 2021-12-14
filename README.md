@@ -6,5 +6,5 @@
 ## Features
 ### You can search any movie, TV show or Web series.
 ### You can see the information about the show you searched.
-### You can Create your ow account and add shows to your watchlist.
+### You can Create your own account and add shows to your watchlist.
 ### This application also provides Login and Logout functionality.
